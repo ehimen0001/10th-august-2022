@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+
+body>main>div>div>div:nth-child(1)>img {
+    width: 40%;
+}
+
+body>main>div>div>div:nth-child(2)>img {
+    width: 50%;
+}
+
+.links a {
+    margin-left: 2rem;
+}
+
+.main .container .h1 {
+    font-size: 9rem;
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 70vh;
+    width: 100%;
+    padding: 5rem;
+}
+
+body>main>div>div.content1.my-5>h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+}
